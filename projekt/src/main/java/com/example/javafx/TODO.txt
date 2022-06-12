@@ -1,0 +1,5 @@
+
+
+Návrh na schopnosť:
+Mage bude vo "focus mode", kde bude používať čiernu magiu na pohyb všetkými entitami, ale bude tu šanca na spawn random nepriatela
+A potom obyč schopnosť kde si bude môcť vytvoriť škatuľu a nou hýbať
