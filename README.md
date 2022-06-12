@@ -20,3 +20,5 @@ Hodnotenie: 14/15
 [1 bod] - Bonusová funkcionalita - 1, zvuky
 
 Komentár: Readme.txt je dobrý a nápomocný, JavaDoc v poriadku. Kód logicky rozdelený a dobre popísaný. Funkčne je projekt na tom veľmi dobre, nie sú doladené len detaily typu okamžité prekreslenie spritu postavičky a občas bugy pri ovládaní (typu aj napr. teleportovanie sa do steny). Bonusovú funkcionalitu som si žiadnu nevšimol. Inak je to ale fajn, cool koncept so schopnosťami (uberanie HP pri čiernej mágii je kreatívny nápad) a celkovo dobré vypracovanie.
+
+# Celý projekt na stiahnutie: https://poznamky.nahovno.eu/FMFI-UK-AIN/II.Ro%c4%8dn%c3%adk/Java/bozik_Proj22-J4%20Multicharakter.zip
